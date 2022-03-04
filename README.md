@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattgholden
+- 👋 Hi, I’m Matt Holden
 - 👀 I’m interested in ... House Music
 - 🌱 I’m currently learning ... software engineering
 - 💞️ I’m looking to collaborate on ...
