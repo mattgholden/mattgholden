@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt Holden
 - 👀 I’m interested in ... House Music
-- 🌱 I’m currently learning ... software engineering
+- 🌱 I’m currently learning ... AWS
 - 📫 How to reach me ... mgholden27@gmail.com
 
 <!---
